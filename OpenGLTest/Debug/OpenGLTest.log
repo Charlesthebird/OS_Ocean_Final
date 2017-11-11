@@ -1,12 +1,13 @@
 ﻿  Main.cpp
-c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(65): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(70): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(91): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
-c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(263): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  OpenGLTest.vcxproj -> C:\Users\Nick\documents\visual studio 2017\Projects\OpenGLTest\Debug\OpenGLTest.exe
-  OpenGLTest.vcxproj -> C:\Users\Nick\documents\visual studio 2017\Projects\OpenGLTest\Debug\OpenGLTest.pdb (Partial PDB)
+c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\shader.h(52): warning C4101: 'infoLog': unreferenced local variable
+c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\shader.h(51): warning C4101: 'success': unreferenced local variable
+c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(103): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(215): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(216): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(220): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(221): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(223): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(224): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\documents\visual studio 2017\projects\opengltest\opengltest\main.cpp(233): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLTest.vcxproj -> C:\Users\Nick\Documents\Visual Studio 2017\Projects\OpenGLTest\Debug\OpenGLTest.exe
+  OpenGLTest.vcxproj -> C:\Users\Nick\Documents\Visual Studio 2017\Projects\OpenGLTest\Debug\OpenGLTest.pdb (Partial PDB)

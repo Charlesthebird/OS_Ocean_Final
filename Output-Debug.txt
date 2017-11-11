@@ -1,0 +1,105 @@
+﻿'OpenGLTest.exe' (Win32): Loaded 'C:\Users\Nick\Documents\Visual Studio 2017\Projects\OpenGLTest\Debug\OpenGLTest.exe'. Symbols loaded.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\kernel32.dll'
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Users\Nick\Documents\Visual Studio 2017\Projects\OpenGLTest\Debug\assimp-vc140-mt.dll'. Symbols loaded.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\windows.storage.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\powrprof.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\profapi.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmm.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\winmmbase.dll'
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\winmmbase.dll'
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dinput8.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\XInput1_4.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\devobj.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Program Files (x86)\Common Files\Microsoft Shared\Ink\tiptsf.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\hid.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\setupapi.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wintrust.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msasn1.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\crypt32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\opengl32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\glu32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_75bf0d025ab049e0\ig9icd32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_75bf0d025ab049e0\ig9icd32.dll'
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_75bf0d025ab049e0\ig9icd32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wtsapi32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\version.dll'
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_75bf0d025ab049e0\igc32.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\usermgrcli.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\clbcatq.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\UIAutomationCore.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sxs.dll'. Cannot find or open the PDB file.
+mincore\com\oleaut32\dispatch\ups.cpp(2128)\OLEAUT32.dll!76375072: (caller: 7637FE4F) ReturnHr(1) tid(384c) 8002801D Library not registered.
+mincore\com\oleaut32\dispatch\ups.cpp(2128)\OLEAUT32.dll!76375072: (caller: 7637FE4F) ReturnHr(2) tid(384c) 8002801D Library not registered.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleacc.dll'. Cannot find or open the PDB file.
+'OpenGLTest.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. Cannot find or open the PDB file.
+The thread 0x3a1c has exited with code 0 (0x0).
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\XInput1_4.dll'
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\devobj.dll'
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\msasn1.dll'
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\crypt32.dll'
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\wintrust.dll'
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\setupapi.dll'
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\hid.dll'
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\dinput8.dll'
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\winmmbase.dll'
+'OpenGLTest.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\winmm.dll'
+The thread 0x2a24 has exited with code 0 (0x0).
+The thread 0x3b5c has exited with code 0 (0x0).
+The thread 0x3a14 has exited with code 0 (0x0).
+The thread 0x3928 has exited with code 0 (0x0).
+The thread 0x39f4 has exited with code 0 (0x0).
+The thread 0x4b0 has exited with code 0 (0x0).
+The thread 0x76c has exited with code 0 (0x0).
+The thread 0x340 has exited with code 0 (0x0).
+The thread 0x3494 has exited with code 0 (0x0).
+The thread 0x39cc has exited with code 0 (0x0).
+The thread 0x1fb0 has exited with code 0 (0x0).
+The program '[7700] OpenGLTest.exe' has exited with code 0 (0x0).
