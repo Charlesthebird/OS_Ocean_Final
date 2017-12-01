@@ -53,6 +53,12 @@
     <None Include="1.model_loading.fs">
       <Filter>ShaderFiles</Filter>
     </None>
+    <None Include="ocean.vs">
+      <Filter>ShaderFiles</Filter>
+    </None>
+    <None Include="ocean.fs">
+      <Filter>ShaderFiles</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Shader.h">
@@ -68,6 +74,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SocketConnection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ocean.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

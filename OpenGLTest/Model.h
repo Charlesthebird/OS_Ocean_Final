@@ -39,6 +39,7 @@ public:
 	{
 		loadModel(path);
 	}
+	Model() { }
 
 	// draws the model, and thus all its meshes
 	void Draw(Shader shader)

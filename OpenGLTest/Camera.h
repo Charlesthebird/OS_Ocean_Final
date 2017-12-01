@@ -31,6 +31,7 @@ const float ZOOM = 45.0f;
 class Camera
 {
 public:
+	float shiftSpeedup = 4.0f;
 	// Camera Attributes
 	glm::vec3 Position;
 	glm::vec3 Front;
@@ -82,25 +83,30 @@ public:
 			this->Speedup = false;
 
 		if (Speedup)
-			velocity *= 2;
+			velocity *= shiftSpeedup;
+
+		glm::vec3 front = glm::vec3(0, 0, 1);
+		glm::vec3 right = glm::vec3(-1, 0, 0);
+		glm::vec3 up= glm::vec3(0, 1, 0);
 
 		if (direction == FORWARD)
-			Position += Front * velocity;
+			Position += front * velocity;//Front * velocity;
 		if (direction == BACKWARD)
-			Position -= Front * velocity;
+			Position -= front * velocity;
 		if (direction == LEFT)
-			Position -= Right * velocity;
+			Position -= right * velocity;
 		if (direction == RIGHT)
-			Position += Right * velocity;
+			Position += right * velocity;
 		if (direction == DOWN)
-			Position -= Up * velocity;
+			Position -= up * velocity;
 		if (direction == UP)
-			Position += Up * velocity;
+			Position += up * velocity;
 	}
 
 	// Processes input received from a mouse input system. Expects the offset value in both the x and y direction.
 	void ProcessMouseMovement(float xoffset, float yoffset, GLboolean constrainPitch = true)
 	{
+		//return;
 		xoffset *= MouseSensitivity;
 		yoffset *= MouseSensitivity;
 

@@ -81,7 +81,7 @@
       <AdditionalIncludeDirectories>C:\OpenGL\Include\glad;C:\OpenGL\Include\KHR;C:\OpenGL\Include\glm-0.9.8.5;C:\OpenGL\Include\GLFW;C:\OpenGL\Include\assimp;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
-      <AdditionalDependencies>opengl32.lib;glfw3.lib;assimp-vc140-mt.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>Advapi32.lib;Mswsock.lib;Ws2_32.lib;opengl32.lib;glfw3.lib;assimp-vc140-mt.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <AdditionalLibraryDirectories>C:\OpenGL\Libraries;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
@@ -127,7 +127,9 @@
     <ClInclude Include="Camera.h" />
     <ClInclude Include="Mesh.h" />
     <ClInclude Include="Model.h" />
+    <ClInclude Include="Ocean.h" />
     <ClInclude Include="Shader.h" />
+    <ClInclude Include="SocketConnection.h" />
     <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <ItemGroup>
@@ -138,6 +140,8 @@
     <None Include="1.model_loading.fs" />
     <None Include="1.model_loading.vs" />
     <None Include="fragment1.fs" />
+    <None Include="ocean.fs" />
+    <None Include="ocean.vs" />
     <None Include="vertex1.vs" />
   </ItemGroup>
   <ItemGroup>
